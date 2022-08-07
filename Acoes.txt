@@ -1,0 +1,4 @@
+#Tratamento
+
+Organizar as pastas - jogar todos os arquivos para a pasta mais superior
+
